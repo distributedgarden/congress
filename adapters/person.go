@@ -1,7 +1,7 @@
 package adapters
 
 import (
-	"github.com/distributedgarden/congress/clients/propublica/congress"
+	"github.com/distributedgarden/propublicago/congress"
 	rg "github.com/redislabs/redisgraph-go"
 )
 

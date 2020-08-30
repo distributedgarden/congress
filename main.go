@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/distributedgarden/congress/adapters"
-	"github.com/distributedgarden/congress/clients/propublica/congress"
+	"github.com/distributedgarden/propublicago/congress"
 	"os"
 )
 

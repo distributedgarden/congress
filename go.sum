@@ -1,5 +1,9 @@
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/distributedgarden/propublicago v0.0.0-20200830214745-408354f8eed4 h1:aXDQophfTaHH61+YYBB/CyhgLg+agFvKx+rs2EWP+Hk=
+github.com/distributedgarden/propublicago v0.0.0-20200830214745-408354f8eed4/go.mod h1:1srD/L3TMc7/EBDxbd47YTTs8MyaqZ/2KKu+fttr4S4=
+github.com/distributedgarden/propublicago v0.0.0-20200830215439-1f3b34b9bfeb h1:uldo9KjfJxhM5o+gUzj8nr4xdOPnofaJHMAUUUamekY=
+github.com/distributedgarden/propublicago v0.0.0-20200830215439-1f3b34b9bfeb/go.mod h1:1srD/L3TMc7/EBDxbd47YTTs8MyaqZ/2KKu+fttr4S4=
 github.com/gomodule/redigo v1.8.2 h1:H5XSIre1MB5NbPYFp+i1NBbb5qN1W8Y8YAQoAYbkm8k=
 github.com/gomodule/redigo v1.8.2/go.mod h1:P9dn9mFrCBvWhGE1wpxx6fgq7BAeLBk+UUUzlpkBYO0=
 github.com/gomodule/redigo/redis v0.0.0-do-not-use h1:J7XIp6Kau0WoyT4JtXHT3Ei0gA1KkSc6bc87j9v9WIo=
